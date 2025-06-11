@@ -96,5 +96,5 @@ This project is for *educational purposes only*. All references, images, and dat
 
 ---
 
-## Prject Link 
+## Project Link 
 https://byaditi.github.io/Chandrayaan-3-Project
