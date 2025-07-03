@@ -97,4 +97,4 @@ This project is for *educational purposes only*. All references, images, and dat
 ---
 
 ## Live Project Link 
-https://byaditi.github.io/Chandrayaan-3-Project
+https://snipcraft.github.io/Chandrayaan-3-Project
