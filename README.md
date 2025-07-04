@@ -85,7 +85,6 @@ This is a *non-commercial educational project* created before the mission's offi
 *Aditi Karfa*  
 🎓 B.Tech — Electronics & Computer Science  
 💻 Front-end Development Enthusiast  
-🌱 Currently learning C, C++, Python, and DSA  
 📬 [GitHub](https://github.com/byAditi) | Always open to feedback and collaboration!
 
 ---
